@@ -1,9 +1,10 @@
 package T37;
 
-public class MainClass {
+public class Tes {
 
 	public static void main(String[] args) {
-		 System.out.println("");
+		// TODO Auto-generated method stub
+
 	}
 
 }
